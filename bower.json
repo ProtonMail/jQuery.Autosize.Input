@@ -1,0 +1,12 @@
+{
+  "name": "jquery-autosize-input",
+  "version": "0.1.0",
+  "main": "jquery.autosize.input.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "*",
+  }
+}
